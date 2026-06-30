@@ -2,7 +2,7 @@ package simulation;
 
 public class fifo {
     int Output;
-
+    //test
     public fifo(int fr, int[] in) {
         int[] a = new int[fr];
         int[] flag = new int[in.length];
